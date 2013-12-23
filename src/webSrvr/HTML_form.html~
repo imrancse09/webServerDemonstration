@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Simple HTML Form</title>
+</head>
+<body>
+
+<h3>Simple HTML Forms</h3>
+
+<p>Please log in below!</p>
+
+<form action="HttpRequest.java:8080" method="POST">
+Name:
+<input name="textName"/>
+Age:
+<input name="textAge" />
+<input type="submit" name="submit" value="Submit" />
+</form>
+
+
+
+
+</body>
+</html>
